@@ -1,9 +1,12 @@
 ﻿## auto-sign-in-facebook-and-upload-post-and-like-page-posts
  
- ### Your Screen size of resolution must be width = 1920 and height=1080
- 
- ### This is created with help of pyautogui python package
-
+ ### ```
+ Your Screen size of resolution must be width = 1920 and height=1080
+ ```
+ ### 
+ ```
+ This is created with help of pyautogui python package
+```
 ## Demo 
 
 
